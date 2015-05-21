@@ -1,0 +1,22 @@
+{
+  "name": "envivo",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jmocana2/envivo",
+  "authors": [
+    "jmocana2 <telecomu4@gmail.com>"
+  ],
+  "description": "test dependencias",
+  "keywords": [
+    "test",
+    "dependencias"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
